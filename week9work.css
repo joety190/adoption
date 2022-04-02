@@ -1,0 +1,14 @@
+div{
+    border-style: solid;
+    border-color: black;
+    
+    
+}
+.container{
+    background-color: rgba(0, 255, 255, 0.295);
+}
+
+img{
+    height: 360px;
+    width: 360px;
+}
